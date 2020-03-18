@@ -3,13 +3,19 @@
     text-align: left;
     color: purple;
     font-weight: bold;
+    margin-top: 6px;
+    margin-bottom: 6px;
 }
 .me{
     color: green;
     font-family: cursive;
     text-align: left;
+    margin-top: 6px;
+    margin-bottom: 6px;
 }
 .heros{
     color: gold;
     text-align: left;
+    margin-top: 6px;
+    margin-bottom: 6px;
 }
