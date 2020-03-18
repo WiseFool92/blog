@@ -1,14 +1,15 @@
 .villians{
     font-stretch: wider;
-    text-align: center;
+    text-align: left;
     color: purple;
     font-weight: bold;
 }
 .me{
     color: green;
     font-family: cursive;
+    text-align: left;
 }
 .heros{
     color: gold;
-    text-align: center;
+    text-align: left;
 }
