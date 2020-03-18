@@ -1,19 +1,14 @@
-h2.villians{
+.villians{
     font-stretch: wider;
     text-align: center;
-}
-p.villains{
     color: purple;
-    text-align: center;
-}
-img.villains{
     font-weight: bold;
 }
-p1.me{
+.me{
     color: green;
     font-family: cursive;
 }
-h1.heros{
+.heros{
     color: gold;
     text-align: center;
 }
